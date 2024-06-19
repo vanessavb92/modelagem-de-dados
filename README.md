@@ -1,3 +1,3 @@
 # modelagem-de-dados
 
-<img src="./img/print-dados.png" alt="datos" width="700"/>
+<img src="./img/Print-dado.png" alt="datos" width="700"/>
